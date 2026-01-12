@@ -38,8 +38,7 @@ This project was developed as part of the **Infosys Springboard 5.0 Internship**
 | Random Forest       | 100.00%  |
 | SVM                 | 99.82%   |
 | XGBoost             | 99.75%   |
-| Deep Learning       | 99.25%   |
-| TabNet              | 99.38%   |
+| TabNet              | 91.38%   |
 
 > Note: Several models achieved very high accuracy (>99%). This may indicate strong feature separability in the dataset or potential overfitting. Further validation using cross-validation and additional metrics is recommended.
 
